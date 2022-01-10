@@ -1,0 +1,256 @@
+,p_ID,unique_qu_ID,visual_comfort,glare_Osterhaus,glare_binary,exposure_nr
+0,301,301_NG_1_Clear_q1,Comfortable,Noticeable,No,301_NG_1_Clear
+1,301,301_NG_1_Clear_q2,Comfortable,Imperceptible,No,301_NG_1_Clear
+2,301,301_NG_2_Blurr_q1,Comfortable,Imperceptible,No,301_NG_2_Blurr
+3,301,301_NG_2_Blurr_q2,Comfortable,Imperceptible,No,301_NG_2_Blurr
+4,302,302_NG_1_Blurr_q1,Uncomfortable,Noticeable,Yes,302_NG_1_Blurr
+5,302,302_NG_1_Blurr_q2,Uncomfortable,Noticeable,Yes,302_NG_1_Blurr
+6,302,302_NG_2_Clear_q1,Comfortable,Imperceptible,No,302_NG_2_Clear
+7,302,302_NG_2_Clear_q2,Comfortable,Imperceptible,No,302_NG_2_Clear
+8,303,303_NG_1_Clear_q1,Comfortable,Imperceptible,No,303_NG_1_Clear
+9,303,303_NG_1_Clear_q2,Comfortable,Imperceptible,No,303_NG_1_Clear
+10,303,303_NG_2_Blurr_q1,Comfortable,Imperceptible,No,303_NG_2_Blurr
+11,303,303_NG_2_Blurr_q2,Comfortable,Imperceptible,No,303_NG_2_Blurr
+12,304,304_NG_1_Clear_q1,Comfortable,Imperceptible,No,304_NG_1_Clear
+13,304,304_NG_1_Clear_q2,Comfortable,Imperceptible,No,304_NG_1_Clear
+14,304,304_NG_2_Blurr_q1,Comfortable,Imperceptible,No,304_NG_2_Blurr
+15,304,304_NG_2_Blurr_q2,Comfortable,Imperceptible,No,304_NG_2_Blurr
+16,305,305_G3_1_Blurr_q1,Comfortable,Noticeable,Yes,305_G3_1_Blurr
+17,305,305_G3_1_Blurr_q2,Comfortable,Noticeable,No,305_G3_1_Blurr
+18,305,305_G3_2_Clear_q1,Comfortable,Noticeable,Yes,305_G3_2_Clear
+19,305,305_G3_2_Clear_q2,Comfortable,Imperceptible,No,305_G3_2_Clear
+20,306,306_G3_1_Clear_q1,Comfortable,Imperceptible,No,306_G3_1_Clear
+21,306,306_G3_1_Clear_q2,Comfortable,Imperceptible,No,306_G3_1_Clear
+22,306,306_G3_2_Blurr_q1,Comfortable,Noticeable,Yes,306_G3_2_Blurr
+23,306,306_G3_2_Blurr_q2,Uncomfortable,Noticeable,Yes,306_G3_2_Blurr
+24,307,307_NG_1_Clear_q1,Comfortable,Noticeable,No,307_NG_1_Clear
+25,307,307_NG_1_Clear_q2,Comfortable,Noticeable,No,307_NG_1_Clear
+26,307,307_NG_2_Blurr_q1,Very comfortable,Imperceptible,No,307_NG_2_Blurr
+27,307,307_NG_2_Blurr_q2,Comfortable,Imperceptible,No,307_NG_2_Blurr
+28,308,308_NG_1_Blurr_q1,Very comfortable,Imperceptible,No,308_NG_1_Blurr
+29,308,308_NG_1_Blurr_q2,Uncomfortable,Disturbing,Yes,308_NG_1_Blurr
+30,308,308_NG_2_Clear_q1,Comfortable,Noticeable,No,308_NG_2_Clear
+31,308,308_NG_2_Clear_q2,Comfortable,Noticeable,No,308_NG_2_Clear
+32,309,309_G3_1_Clear_q1,Very comfortable,Imperceptible,No,309_G3_1_Clear
+33,309,309_G3_1_Clear_q2,Very comfortable,Imperceptible,No,309_G3_1_Clear
+34,309,309_G3_2_Blurr_q1,Comfortable,Noticeable,No,309_G3_2_Blurr
+35,309,309_G3_2_Blurr_q2,Comfortable,Noticeable,Yes,309_G3_2_Blurr
+36,310,310_G3_1_Blurr_q1,Comfortable,Noticeable,No,310_G3_1_Blurr
+37,310,310_G3_1_Blurr_q2,Uncomfortable,Disturbing,Yes,310_G3_1_Blurr
+38,310,310_G3_2_Clear_q1,Comfortable,Noticeable,No,310_G3_2_Clear
+39,310,310_G3_2_Clear_q2,Comfortable,Noticeable,No,310_G3_2_Clear
+40,311,311_G3_1_Blurr_q1,Comfortable,Noticeable,No,311_G3_1_Blurr
+41,311,311_G3_1_Blurr_q2,Uncomfortable,Disturbing,Yes,311_G3_1_Blurr
+42,311,311_G3_2_Clear_q1,Comfortable,Noticeable,Yes,311_G3_2_Clear
+43,311,311_G3_2_Clear_q2,Very uncomfortable,Intolerable,Yes,311_G3_2_Clear
+44,312,312_G3_1_Clear_q1,Comfortable,Noticeable,No,312_G3_1_Clear
+45,312,312_G3_1_Clear_q2,Comfortable,Noticeable,No,312_G3_1_Clear
+46,312,312_G3_2_Blurr_q1,Comfortable,Imperceptible,No,312_G3_2_Blurr
+47,312,312_G3_2_Blurr_q2,Comfortable,Noticeable,No,312_G3_2_Blurr
+48,313,313_NG_1_Clear_q1,Very comfortable,Imperceptible,No,313_NG_1_Clear
+49,313,313_NG_1_Clear_q2,Very comfortable,Imperceptible,No,313_NG_1_Clear
+50,313,313_NG_2_Blurr_q1,Uncomfortable,Imperceptible,No,313_NG_2_Blurr
+51,313,313_NG_2_Blurr_q2,Comfortable,Imperceptible,No,313_NG_2_Blurr
+52,314,314_NG_1_Blurr_q1,Comfortable,Imperceptible,No,314_NG_1_Blurr
+53,314,314_NG_1_Blurr_q2,Comfortable,Imperceptible,No,314_NG_1_Blurr
+54,314,314_NG_2_Clear_q1,Comfortable,Imperceptible,No,314_NG_2_Clear
+55,314,314_NG_2_Clear_q2,Comfortable,Imperceptible,No,314_NG_2_Clear
+56,315,315_G1_1_Clear_q1,Uncomfortable,Disturbing,Yes,315_G1_1_Clear
+57,315,315_G1_1_Clear_q2,Very uncomfortable,Intolerable,Yes,315_G1_1_Clear
+58,315,315_G1_2_Blurr_q1,Comfortable,Noticeable,Yes,315_G1_2_Blurr
+59,315,315_G1_2_Blurr_q2,Very comfortable,Imperceptible,No,315_G1_2_Blurr
+60,316,316_G1_1_Blurr_q1,Uncomfortable,Disturbing,Yes,316_G1_1_Blurr
+61,316,316_G1_1_Blurr_q2,Uncomfortable,Intolerable,Yes,316_G1_1_Blurr
+62,316,316_G1_2_Clear_q1,Uncomfortable,Intolerable,Yes,316_G1_2_Clear
+63,316,316_G1_2_Clear_q2,Comfortable,Disturbing,No,316_G1_2_Clear
+64,317,317_G1_1_Clear_q1,Comfortable,Noticeable,Yes,317_G1_1_Clear
+65,317,317_G1_1_Clear_q2,Uncomfortable,Disturbing,Yes,317_G1_1_Clear
+66,317,317_G1_2_Blurr_q1,Uncomfortable,Disturbing,Yes,317_G1_2_Blurr
+67,317,317_G1_2_Blurr_q2,Uncomfortable,Noticeable,No,317_G1_2_Blurr
+68,318,318_G1_1_Blurr_q1,Comfortable,Noticeable,Yes,318_G1_1_Blurr
+69,318,318_G1_1_Blurr_q2,Very uncomfortable,Disturbing,Yes,318_G1_1_Blurr
+70,318,318_G1_2_Clear_q1,Comfortable,Noticeable,Yes,318_G1_2_Clear
+71,318,318_G1_2_Clear_q2,Uncomfortable,Intolerable,Yes,318_G1_2_Clear
+72,319,319_NG_1_Clear_q1,Uncomfortable,Noticeable,Yes,319_NG_1_Clear
+73,319,319_NG_1_Clear_q2,Uncomfortable,Noticeable,Yes,319_NG_1_Clear
+74,319,319_NG_2_Blurr_q1,Uncomfortable,Noticeable,Yes,319_NG_2_Blurr
+75,319,319_NG_2_Blurr_q2,Uncomfortable,Noticeable,Yes,319_NG_2_Blurr
+76,320,320_NG_1_Blurr_q1,Very comfortable,Imperceptible,No,320_NG_1_Blurr
+77,320,320_NG_1_Blurr_q2,Very comfortable,Imperceptible,No,320_NG_1_Blurr
+78,320,320_NG_2_Clear_q1,Comfortable,Noticeable,No,320_NG_2_Clear
+79,320,320_NG_2_Clear_q2,Comfortable,Noticeable,No,320_NG_2_Clear
+80,321,321_G1_1_Clear_q1,Comfortable,Noticeable,No,321_G1_1_Clear
+81,321,321_G1_1_Clear_q2,Comfortable,Imperceptible,No,321_G1_1_Clear
+82,321,321_G1_2_Blurr_q1,Comfortable,Imperceptible,No,321_G1_2_Blurr
+83,321,321_G1_2_Blurr_q2,Comfortable,Imperceptible,No,321_G1_2_Blurr
+84,322,322_G1_1_Blurr_q1,Comfortable,Noticeable,No,322_G1_1_Blurr
+85,322,322_G1_1_Blurr_q2,Comfortable,Noticeable,No,322_G1_1_Blurr
+86,322,322_G1_2_Clear_q1,Comfortable,Noticeable,No,322_G1_2_Clear
+87,322,322_G1_2_Clear_q2,Comfortable,Noticeable,No,322_G1_2_Clear
+88,323,323_G1_1_Clear_q1,Comfortable,Imperceptible,No,323_G1_1_Clear
+89,323,323_G1_1_Clear_q2,Comfortable,Imperceptible,No,323_G1_1_Clear
+90,323,323_G1_2_Blurr_q1,Comfortable,Imperceptible,No,323_G1_2_Blurr
+91,323,323_G1_2_Blurr_q2,Comfortable,Imperceptible,No,323_G1_2_Blurr
+92,324,324_G1_1_Blurr_q1,Comfortable,Noticeable,No,324_G1_1_Blurr
+93,324,324_G1_1_Blurr_q2,Comfortable,Noticeable,No,324_G1_1_Blurr
+94,324,324_G1_2_Clear_q1,Very comfortable,Imperceptible,No,324_G1_2_Clear
+95,324,324_G1_2_Clear_q2,Very comfortable,Noticeable,No,324_G1_2_Clear
+96,325,325_G3_1_Blurr_q1,Comfortable,Noticeable,No,325_G3_1_Blurr
+97,325,325_G3_1_Blurr_q2,Uncomfortable,Disturbing,Yes,325_G3_1_Blurr
+98,325,325_G3_2_Clear_q1,Comfortable,Noticeable,Yes,325_G3_2_Clear
+99,325,325_G3_2_Clear_q2,Comfortable,Noticeable,Yes,325_G3_2_Clear
+100,326,326_G3_1_Clear_q1,Comfortable,Noticeable,No,326_G3_1_Clear
+101,326,326_G3_1_Clear_q2,Comfortable,Noticeable,No,326_G3_1_Clear
+102,326,326_G3_2_Blurr_q1,Comfortable,Noticeable,Yes,326_G3_2_Blurr
+103,326,326_G3_2_Blurr_q2,Uncomfortable,Noticeable,Yes,326_G3_2_Blurr
+104,327,327_G3_1_Clear_q1,Very comfortable,Disturbing,Yes,327_G3_1_Clear
+105,327,327_G3_1_Clear_q2,Comfortable,Disturbing,Yes,327_G3_1_Clear
+106,327,327_G3_2_Blurr_q1,Comfortable,Disturbing,Yes,327_G3_2_Blurr
+107,327,327_G3_2_Blurr_q2,Uncomfortable,Disturbing,Yes,327_G3_2_Blurr
+108,328,328_G3_1_Blurr_q1,Comfortable,Noticeable,Yes,328_G3_1_Blurr
+109,328,328_G3_1_Blurr_q2,Uncomfortable,Disturbing,Yes,328_G3_1_Blurr
+110,328,328_G3_2_Clear_q1,Uncomfortable,Disturbing,Yes,328_G3_2_Clear
+111,328,328_G3_2_Clear_q2,Uncomfortable,Disturbing,Yes,328_G3_2_Clear
+112,329,329_G3_1_Blurr_q1,Comfortable,Noticeable,No,329_G3_1_Blurr
+113,329,329_G3_1_Blurr_q2,Comfortable,Imperceptible,No,329_G3_1_Blurr
+114,329,329_G3_2_Clear_q1,Comfortable,Noticeable,Yes,329_G3_2_Clear
+115,329,329_G3_2_Clear_q2,Comfortable,Noticeable,No,329_G3_2_Clear
+116,330,330_G3_1_Clear_q1,Uncomfortable,Noticeable,Yes,330_G3_1_Clear
+117,330,330_G3_1_Clear_q2,Very uncomfortable,Intolerable,Yes,330_G3_1_Clear
+118,330,330_G3_2_Blurr_q1,Uncomfortable,Disturbing,Yes,330_G3_2_Blurr
+119,330,330_G3_2_Blurr_q2,Comfortable,Disturbing,Yes,330_G3_2_Blurr
+120,331,331_G3_1_Blurr_q1,Uncomfortable,Noticeable,No,331_G3_1_Blurr
+121,331,331_G3_1_Blurr_q2,Uncomfortable,Disturbing,Yes,331_G3_1_Blurr
+122,331,331_G3_2_Clear_q1,Uncomfortable,Noticeable,No,331_G3_2_Clear
+123,331,331_G3_2_Clear_q2,Uncomfortable,Disturbing,Yes,331_G3_2_Clear
+124,332,332_G3_1_Clear_q1,Uncomfortable,Noticeable,Yes,332_G3_1_Clear
+125,332,332_G3_1_Clear_q2,Uncomfortable,Disturbing,Yes,332_G3_1_Clear
+126,332,332_G3_2_Blurr_q1,Uncomfortable,Imperceptible,No,332_G3_2_Blurr
+127,332,332_G3_2_Blurr_q2,Uncomfortable,Disturbing,Yes,332_G3_2_Blurr
+128,333,333_G3_1_Blurr_q1,Uncomfortable,Intolerable,Yes,333_G3_1_Blurr
+129,333,333_G3_1_Blurr_q2,Comfortable,Noticeable,Yes,333_G3_1_Blurr
+130,333,333_G3_2_Clear_q1,Comfortable,Noticeable,Yes,333_G3_2_Clear
+131,333,333_G3_2_Clear_q2,Very comfortable,Imperceptible,No,333_G3_2_Clear
+132,334,334_G3_1_Clear_q1,Very comfortable,Imperceptible,No,334_G3_1_Clear
+133,334,334_G3_1_Clear_q2,Very uncomfortable,Imperceptible,No,334_G3_1_Clear
+134,334,334_G3_2_Blurr_q1,Very comfortable,Imperceptible,No,334_G3_2_Blurr
+135,334,334_G3_2_Blurr_q2,Very comfortable,Imperceptible,No,334_G3_2_Blurr
+136,335,335_NG_1_Blurr_q1,Comfortable,Noticeable,No,335_NG_1_Blurr
+137,335,335_NG_1_Blurr_q2,Comfortable,Noticeable,No,335_NG_1_Blurr
+138,335,335_NG_2_Clear_q1,Comfortable,Noticeable,No,335_NG_2_Clear
+139,335,335_NG_2_Clear_q2,Comfortable,Noticeable,No,335_NG_2_Clear
+140,336,336_NG_1_Clear_q1,Comfortable,Noticeable,No,336_NG_1_Clear
+141,336,336_NG_1_Clear_q2,Comfortable,Noticeable,No,336_NG_1_Clear
+142,336,336_NG_2_Blurr_q1,Comfortable,Imperceptible,No,336_NG_2_Blurr
+143,336,336_NG_2_Blurr_q2,Comfortable,Noticeable,No,336_NG_2_Blurr
+144,337,337_NG_1_Clear_q1,Very comfortable,Noticeable,Yes,337_NG_1_Clear
+145,337,337_NG_1_Clear_q2,Comfortable,Noticeable,Yes,337_NG_1_Clear
+146,337,337_NG_2_Blurr_q1,Comfortable,Imperceptible,No,337_NG_2_Blurr
+147,337,337_NG_2_Blurr_q2,Comfortable,Imperceptible,No,337_NG_2_Blurr
+148,338,338_NG_1_Blurr_q1,Comfortable,Noticeable,No,338_NG_1_Blurr
+149,338,338_NG_1_Blurr_q2,Comfortable,Noticeable,No,338_NG_1_Blurr
+150,338,338_NG_2_Clear_q1,Comfortable,Noticeable,Yes,338_NG_2_Clear
+151,338,338_NG_2_Clear_q2,Comfortable,Noticeable,No,338_NG_2_Clear
+152,339,339_NG_1_Blurr_q1,Comfortable,Noticeable,No,339_NG_1_Blurr
+153,339,339_NG_1_Blurr_q2,Comfortable,Imperceptible,No,339_NG_1_Blurr
+154,339,339_NG_2_Clear_q1,Comfortable,Imperceptible,No,339_NG_2_Clear
+155,339,339_NG_2_Clear_q2,Comfortable,Imperceptible,No,339_NG_2_Clear
+156,340,340_NG_1_Clear_q1,Comfortable,Noticeable,No,340_NG_1_Clear
+157,340,340_NG_1_Clear_q2,Uncomfortable,Noticeable,Yes,340_NG_1_Clear
+158,340,340_NG_2_Blurr_q1,Uncomfortable,Noticeable,Yes,340_NG_2_Blurr
+159,340,340_NG_2_Blurr_q2,Uncomfortable,Noticeable,Yes,340_NG_2_Blurr
+160,341,341_NG_1_Blurr_q1,Comfortable,Noticeable,Yes,341_NG_1_Blurr
+161,341,341_NG_1_Blurr_q2,Uncomfortable,Disturbing,Yes,341_NG_1_Blurr
+162,341,341_NG_2_Clear_q1,Comfortable,Noticeable,Yes,341_NG_2_Clear
+163,341,341_NG_2_Clear_q2,Comfortable,Disturbing,Yes,341_NG_2_Clear
+164,342,342_NG_1_Clear_q1,Very comfortable,Noticeable,No,342_NG_1_Clear
+165,342,342_NG_1_Clear_q2,Comfortable,Noticeable,Yes,342_NG_1_Clear
+166,342,342_NG_2_Blurr_q1,Comfortable,Disturbing,No,342_NG_2_Blurr
+167,342,342_NG_2_Blurr_q2,Comfortable,Noticeable,No,342_NG_2_Blurr
+168,343,343_G1_1_Blurr_q1,Comfortable,Noticeable,Yes,343_G1_1_Blurr
+169,343,343_G1_1_Blurr_q2,Uncomfortable,Noticeable,No,343_G1_1_Blurr
+170,343,343_G1_2_Clear_q1,Comfortable,Noticeable,No,343_G1_2_Clear
+171,343,343_G1_2_Clear_q2,Comfortable,Noticeable,No,343_G1_2_Clear
+172,344,344_G1_1_Clear_q1,Comfortable,Noticeable,No,344_G1_1_Clear
+173,344,344_G1_1_Clear_q2,Comfortable,Noticeable,No,344_G1_1_Clear
+174,344,344_G1_2_Blurr_q1,Uncomfortable,Noticeable,Yes,344_G1_2_Blurr
+175,344,344_G1_2_Blurr_q2,Comfortable,Imperceptible,No,344_G1_2_Blurr
+176,345,345_G1_1_Blurr_q1,Very comfortable,Noticeable,No,345_G1_1_Blurr
+177,345,345_G1_1_Blurr_q2,Comfortable,Noticeable,No,345_G1_1_Blurr
+178,345,345_G1_2_Clear_q1,Uncomfortable,Disturbing,Yes,345_G1_2_Clear
+179,345,345_G1_2_Clear_q2,Uncomfortable,Disturbing,Yes,345_G1_2_Clear
+180,346,346_G1_1_Clear_q1,Uncomfortable,Disturbing,Yes,346_G1_1_Clear
+181,346,346_G1_1_Clear_q2,Uncomfortable,Disturbing,Yes,346_G1_1_Clear
+182,346,346_G1_2_Blurr_q1,Uncomfortable,Disturbing,Yes,346_G1_2_Blurr
+183,346,346_G1_2_Blurr_q2,Uncomfortable,Disturbing,Yes,346_G1_2_Blurr
+184,347,347_NG_1_Blurr_q1,Comfortable,Imperceptible,No,347_NG_1_Blurr
+185,347,347_NG_1_Blurr_q2,Comfortable,Imperceptible,No,347_NG_1_Blurr
+186,347,347_NG_2_Clear_q1,Comfortable,Noticeable,No,347_NG_2_Clear
+187,347,347_NG_2_Clear_q2,Comfortable,Imperceptible,No,347_NG_2_Clear
+188,348,348_NG_1_Clear_q1,Uncomfortable,Disturbing,Yes,348_NG_1_Clear
+189,348,348_NG_1_Clear_q2,Uncomfortable,Noticeable,Yes,348_NG_1_Clear
+190,348,348_NG_2_Blurr_q1,Comfortable,Noticeable,No,348_NG_2_Blurr
+191,348,348_NG_2_Blurr_q2,Comfortable,Noticeable,No,348_NG_2_Blurr
+192,349,349_G1_1_Blurr_q1,Comfortable,Imperceptible,No,349_G1_1_Blurr
+193,349,349_G1_1_Blurr_q2,Comfortable,Noticeable,Yes,349_G1_1_Blurr
+194,349,349_G1_2_Clear_q1,Comfortable,Noticeable,Yes,349_G1_2_Clear
+195,349,349_G1_2_Clear_q2,Uncomfortable,Noticeable,Yes,349_G1_2_Clear
+196,350,350_G1_1_Clear_q1,Very uncomfortable,Disturbing,Yes,350_G1_1_Clear
+197,350,350_G1_1_Clear_q2,Uncomfortable,Disturbing,Yes,350_G1_1_Clear
+198,350,350_G1_2_Blurr_q1,Uncomfortable,Disturbing,Yes,350_G1_2_Blurr
+199,350,350_G1_2_Blurr_q2,Uncomfortable,Intolerable,Yes,350_G1_2_Blurr
+200,351,351_G1_1_Blurr_q1,Comfortable,Imperceptible,No,351_G1_1_Blurr
+201,351,351_G1_1_Blurr_q2,Uncomfortable,Noticeable,No,351_G1_1_Blurr
+202,351,351_G1_2_Clear_q1,Comfortable,Noticeable,No,351_G1_2_Clear
+203,351,351_G1_2_Clear_q2,Comfortable,Noticeable,No,351_G1_2_Clear
+204,352,352_G1_1_Clear_q1,Comfortable,Disturbing,Yes,352_G1_1_Clear
+205,352,352_G1_1_Clear_q2,Comfortable,Noticeable,Yes,352_G1_1_Clear
+206,352,352_G1_2_Blurr_q1,Comfortable,Noticeable,No,352_G1_2_Blurr
+207,352,352_G1_2_Blurr_q2,Comfortable,Disturbing,Yes,352_G1_2_Blurr
+209,353,353_G1_1_Clear_q2,Comfortable,Noticeable,No,353_G1_1_Clear
+210,353,353_G1_2_Blurr_q1,Very comfortable,Noticeable,No,353_G1_2_Blurr
+211,353,353_G1_2_Blurr_q2,Comfortable,Noticeable,No,353_G1_2_Blurr
+212,354,354_G1_1_Blurr_q1,Comfortable,Noticeable,No,354_G1_1_Blurr
+213,354,354_G1_1_Blurr_q2,Comfortable,Noticeable,No,354_G1_1_Blurr
+214,354,354_G1_2_Clear_q1,Comfortable,Noticeable,No,354_G1_2_Clear
+215,354,354_G1_2_Clear_q2,Comfortable,Noticeable,Yes,354_G1_2_Clear
+216,355,355_G1_1_Blurr_q1,Uncomfortable,Noticeable,No,355_G1_1_Blurr
+217,355,355_G1_1_Blurr_q2,Uncomfortable,Noticeable,No,355_G1_1_Blurr
+218,355,355_G1_2_Clear_q1,Comfortable,Noticeable,No,355_G1_2_Clear
+219,355,355_G1_2_Clear_q2,Comfortable,Noticeable,No,355_G1_2_Clear
+220,356,356_G1_1_Clear_q1,Comfortable,Noticeable,No,356_G1_1_Clear
+221,356,356_G1_1_Clear_q2,Uncomfortable,Noticeable,Yes,356_G1_1_Clear
+222,356,356_G1_2_Blurr_q1,Comfortable,Noticeable,No,356_G1_2_Blurr
+223,356,356_G1_2_Blurr_q2,Comfortable,Noticeable,No,356_G1_2_Blurr
+224,357,357_G3_1_Clear_q1,Uncomfortable,Disturbing,Yes,357_G3_1_Clear
+225,357,357_G3_1_Clear_q2,Uncomfortable,Disturbing,Yes,357_G3_1_Clear
+226,357,357_G3_2_Blurr_q1,Uncomfortable,Disturbing,Yes,357_G3_2_Blurr
+227,357,357_G3_2_Blurr_q2,Uncomfortable,Disturbing,Yes,357_G3_2_Blurr
+228,358,358_G3_1_Blurr_q1,Comfortable,Imperceptible,No,358_G3_1_Blurr
+229,358,358_G3_1_Blurr_q2,Comfortable,Noticeable,Yes,358_G3_1_Blurr
+230,358,358_G3_2_Clear_q1,Comfortable,Noticeable,Yes,358_G3_2_Clear
+231,358,358_G3_2_Clear_q2,Comfortable,Noticeable,Yes,358_G3_2_Clear
+232,359,359_NG_1_Clear_q1,Comfortable,Disturbing,No,359_NG_1_Clear
+233,359,359_NG_1_Clear_q2,Comfortable,Noticeable,No,359_NG_1_Clear
+234,359,359_NG_2_Blurr_q1,Uncomfortable,Disturbing,Yes,359_NG_2_Blurr
+235,359,359_NG_2_Blurr_q2,Uncomfortable,Disturbing,Yes,359_NG_2_Blurr
+236,360,360_NG_1_Blurr_q1,Comfortable,Disturbing,Yes,360_NG_1_Blurr
+237,360,360_NG_1_Blurr_q2,Comfortable,Imperceptible,No,360_NG_1_Blurr
+238,360,360_NG_2_Clear_q1,Comfortable,Noticeable,No,360_NG_2_Clear
+239,360,360_NG_2_Clear_q2,Comfortable,Disturbing,Yes,360_NG_2_Clear
+240,361,361_G3_1_Clear_q1,Uncomfortable,Disturbing,Yes,361_G3_1_Clear
+241,361,361_G3_1_Clear_q2,Uncomfortable,Noticeable,Yes,361_G3_1_Clear
+242,361,361_G3_2_Blurr_q1,Uncomfortable,Disturbing,Yes,361_G3_2_Blurr
+243,361,361_G3_2_Blurr_q2,Uncomfortable,Disturbing,Yes,361_G3_2_Blurr
+244,362,362_G3_1_Blurr_q1,Comfortable,Noticeable,No,362_G3_1_Blurr
+245,362,362_G3_1_Blurr_q2,Uncomfortable,Disturbing,Yes,362_G3_1_Blurr
+246,362,362_G3_2_Clear_q1,Comfortable,Noticeable,Yes,362_G3_2_Clear
+247,362,362_G3_2_Clear_q2,Uncomfortable,Intolerable,Yes,362_G3_2_Clear
+248,363,363_G3_1_Blurr_q1,Uncomfortable,Noticeable,No,363_G3_1_Blurr
+249,363,363_G3_1_Blurr_q2,Uncomfortable,Disturbing,Yes,363_G3_1_Blurr
+250,363,363_G3_2_Clear_q1,Comfortable,Disturbing,Yes,363_G3_2_Clear
+251,363,363_G3_2_Clear_q2,Comfortable,Disturbing,Yes,363_G3_2_Clear
+252,364,364_G3_1_Clear_q1,Comfortable,Imperceptible,No,364_G3_1_Clear
+253,364,364_G3_1_Clear_q2,Comfortable,Imperceptible,No,364_G3_1_Clear
+254,364,364_G3_2_Blurr_q1,Uncomfortable,Imperceptible,No,364_G3_2_Blurr
+255,364,364_G3_2_Blurr_q2,Uncomfortable,Imperceptible,No,364_G3_2_Blurr
